@@ -15,7 +15,7 @@ def prepare_raw_data_folder() -> None:
         print("raw_data folder has been created")
     except:
         print("Folder already exists")
- 
+
 # def remove_totals(data: DataFrame, col_name: str) -> DataFrame:
     
 #     subsetted_data: DataFrame = data[~data[col_name].str.contains("TOTAL")]
