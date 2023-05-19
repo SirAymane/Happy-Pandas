@@ -3,9 +3,9 @@
 
 # Exploring medical and health data with Python and pandas
 
-# Aymane El Hanbali
-# Marc Coca Moreno
-# Melania Prado Gutierrez
+## Aymane El Hanbali
+## Marc Coca Moreno
+## Melania Prado Gutierrez
 
 # Introduction
 
