@@ -1,8 +1,4 @@
-# m14_pt1 # Aymane El Hanbali
-
-
 # Exploring medical and health data with Python and pandas
-
 
 # Introduction
 
